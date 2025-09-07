@@ -81,7 +81,7 @@ MongoDB, and EJS.
 -   **Shorten a URL:** Send a POST request to `/url` (or as defined in
     your routes) with the long URL in the body.
 -   **Access the original:** Visit the generated short link in your
-    browser --- e.g., `http://localhost:3000/abcd1234` should redirect
+    browser --- e.g., `http://localhost:3000/url/abcd1234` should redirect
     you to the original URL.
 
 ------------------------------------------------------------------------
